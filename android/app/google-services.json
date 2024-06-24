@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019361183317",
+    "project_id": "padacode-b9fb0",
+    "storage_bucket": "padacode-b9fb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019361183317:android:cbd3b3e5f7986cee6b36dc",
+        "android_client_info": {
+          "package_name": "com.example.adacode"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1-rasrfq7adIFMiLWAEcloH8KfAcWvQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
